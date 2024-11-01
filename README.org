@@ -1,0 +1,3 @@
+#+TITLE: GNU Emacs 29.4 Configuration Files
+
+These configuration files are tailored for the =emacs-x11= package in the void-musl repositories and require =mu4e=, =git=, and =aspell= to be installed. 
